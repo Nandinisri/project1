@@ -1,0 +1,50 @@
+body{
+  background-color: #4a4a48;
+  text-align: center;
+}
+h1{
+  color:#ff2e63;
+  font-family: 'Lobster', cursive;
+font-size: 100px;
+ margin-bottom: 0;
+}
+div{
+  display:inline-block;
+  padding: 1px 54px;
+}
+p{
+  font-family: 'Dancing Script', cursive;
+  font-size: 70px;
+  color: #00b7a8;
+}
+.last{
+  font-family: sans-serif;
+  color: white;
+  font-weight: bold;
+}
+button {
+  background: #c834d9;
+  background-image: -webkit-linear-gradient(top, #c834d9, #9c2bb8);
+  background-image: -moz-linear-gradient(top, #c834d9, #9c2bb8);
+  background-image: -ms-linear-gradient(top, #c834d9, #9c2bb8);
+  background-image: -o-linear-gradient(top, #c834d9, #9c2bb8);
+  background-image: linear-gradient(to bottom, #c834d9, #9c2bb8);
+  -webkit-border-radius: 40;
+  -moz-border-radius: 40;
+  border-radius: 40px;
+  font-family: Georgia;
+  color: #fff;
+  font-size: 37px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+button:hover {
+  background: #fc3c86;
+  background-image: -webkit-linear-gradient(top, #fc3c86, #d93463);
+  background-image: -moz-linear-gradient(top, #fc3c86, #d93463);
+  background-image: -ms-linear-gradient(top, #fc3c86, #d93463);
+  background-image: -o-linear-gradient(top, #fc3c86, #d93463);
+  background-image: linear-gradient(to bottom, #fc3c86, #d93463);
+  text-decoration: none;
+}
